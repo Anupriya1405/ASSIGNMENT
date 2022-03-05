@@ -18,3 +18,9 @@ In which all years did Karnataka have 0 rapes, assualt on women and insult to mo
 4.Query4.sql
 
 In which all districts of Uttar Pradesh were there 0 rapes?
+<img src="SCREENSHOTS/Query 4.jpg">
+
+5.Query5.sql
+Crimes against Women Statistics in Goa for the year 2013
+
+<img src="SCREENSHOTS/Query 5.jpg">
