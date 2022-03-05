@@ -3,7 +3,7 @@
 1.Query1.sql
 
 In which districts of Andhra Pradesh were there 0 Rapes in the year 2001?
-<img src="SCREENSHOTS/QUERY 1.jpg">
+<img src="SCREENSHOTS/Query 1.jpg">
 
 2.Query2.sql
 
