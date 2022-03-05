@@ -7,7 +7,7 @@ In which districts of Andhra Pradesh were there 0 Rapes in the year 2001?
 
 2.Query2.sql
 
-Districts in Kerala between 2001 to 2010, with 0 Rapes, and Kidnapping and Abduction
+Districts in Kerala between 2001 to 2005, with 0 Rapes, and Kidnapping and Abduction
 <img src="SCREENSHOTS/Query 2.jpg">
 
 3.Query3.sql
