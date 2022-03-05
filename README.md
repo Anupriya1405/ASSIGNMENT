@@ -14,3 +14,5 @@ Kerala between 2001 to 2010, with 0 rapes and 0 Kidnapping and abduction
 
 In which all years did Karnataka have 0 rapes, assualt on women and insult to modesty?
 <img src="SCREENSHOTS/Query 3.jpg">
+
+4.Query4.sql
