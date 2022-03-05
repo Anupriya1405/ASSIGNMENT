@@ -24,3 +24,13 @@ In which all districts of Uttar Pradesh were there 0 Rapes?
 Crimes against Women - Statistics of Goa for the year 2013
 
 <img src="SCREENSHOTS/Query 5.jpg">
+
+6.Query6.sql
+In which Distict of Kerara were there 0 Rapes in 2010?
+
+<img src="SCREENSHOTS/Query 6.jpg">
+
+7.Query7.sql
+In which all districs of Tamil Nadu in the year 2010 were there 0 Dowry Deaths?
+
+<img src="SCREENSHOTS/Query 7.jpg">
