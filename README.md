@@ -16,3 +16,5 @@ In which all years did Karnataka have 0 rapes, assualt on women and insult to mo
 <img src="SCREENSHOTS/Query 3.jpg">
 
 4.Query4.sql
+
+In which all districts of Uttar Pradesh were there 0 rapes?
